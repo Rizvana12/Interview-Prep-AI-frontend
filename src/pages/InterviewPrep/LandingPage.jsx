@@ -1,5 +1,5 @@
 import React, { use } from 'react'
-import HERO_IMG from '../../assets/hero_img.png'
+import HERO_IMG from '../../assets/hero_img1.jpg'
 import { APP_FEATURES } from '../../utils/data'
 import { useNavigate } from 'react-router-dom'
 import { useState } from 'react'

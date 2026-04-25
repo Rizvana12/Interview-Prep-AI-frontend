@@ -92,3 +92,13 @@
 .btn-small{
   @apply flex items-center justify-center gap-3 bg-linear-to-r from-primary to-[#e99a4b] text-sm font-semibold text-white px-7 py-2 rounded-lg hover:bg-black hover:text-white transition-colors cursor-pointer hover:shadow-2xl hover:shadow-orange-300
 }
+
+/* @media (max-width: 510px){
+  .w{
+    max-width: 60em;
+  }
+  .col{
+    background-color: #0a308a
+  }
+} */
+
